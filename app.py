@@ -11,7 +11,7 @@ from pathlib import Path
 warnings.filterwarnings("ignore")
 
 st.set_page_config(
-    page_title="AI Exoplanet Detector",
+    page_title="Kamal Solanki | AI Exoplanet Detector",
     page_icon="🌌",
     layout="wide"
 )
@@ -65,7 +65,7 @@ st.sidebar.title("🌌 AI Exoplanet Detector")
 st.sidebar.write("Detect possible exoplanet transit signals from TESS light curve data.")
 st.sidebar.markdown("---")
 st.sidebar.write("**Tech Used:** Python, Streamlit, Lightkurve, Scikit-learn")
-st.sidebar.write("**Author:** Ritesh Rawat")
+st.sidebar.write("**Customized by:** Kamal Solanki")
 
 st.title("🌌 AI-Based Exoplanet Transit Detection System")
 st.write("Upload a TESS `.fits` file to clean the light curve, detect transit-like signals, estimate parameters, and classify the result using AI.")
