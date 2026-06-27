@@ -596,7 +596,7 @@ Please retain the original license notice.
 
 # 👨‍💻 Author
 
-## Ritesh Rawat
+**Kamal Solanki**
 
 **B.Tech Information Technology Student**
 
@@ -612,9 +612,9 @@ Passionate about:
 
 ## 📫 Connect with Me
 
-* GitHub: https://github.com/rawat4113
-* LinkedIn: https://www.linkedin.com/in/ritesh-rawat-it
-* Email: rawatritesh197@gmail.com
+* GitHub:https://github.com/Im-Kamall
+* LinkedIn:www.linkedin.com/in/kamalsolanki-dev
+* Email:solankikamal754@gmail.com
 ---
 
 # ⭐ Support the Project
